@@ -1,2 +1,3 @@
-# AgenticAI
-Problem first AI course
+# LangChain Agent Project
+
+Supports factual, analytical, comparison, and definition queries.
